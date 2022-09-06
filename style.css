@@ -1,0 +1,21 @@
+/* CSS Document */
+ul { width: 100vw; text-align: left; /*background-color:#A2AC84*/; 
+    top: 0px; left: 0px; margin: 0px 12vh auto; padding-top: 1vh;}
+ul li { list-style: none; padding: 2vh; text-align: left; display:inline-block;
+        font-size:18px; overflow: auto;}
+video {width: 100vw; max-width: 640px; height:auto}
+a {color:rgba(223, 223, 229, 0.8); text-decoration: none; font-size: 125%;}
+a:hover{color:rgba(255, 255, 255, 1);}
+p{max-width: 640 px;}
+div {display: block;}
+html, body {font-family: "Source Sans Pro", Helvetica, sans-serif; /*background-color:#173e43;*/ color:#173e43; height: 100%; margin: 0;
+      font-size: 20px; display: block; background-image: url(images/main_background.jpg); background-repeat:no-repeat; background-size:cover;
+      background-position:center;
+      line-height: 1.5; font-weight: 600;}
+h1{font-weight: 900;}
+#prima {background-color: #00ff00; color: #FF6161}
+.content { margin: 35px auto; padding: 20px; align-content: center; width: 640px; overflow: auto;}
+#vkladani {font-family: 'Source Sans Pro', sans-serif; background-color: #fffafa; color: #E39A9A}
+.foot{width: 100%; background-color: #A2AC84;  color:#feffff; text-align: center;}
+/*ul li a:hover{background-color: #FF6161;}
+ul li a:active{background-color: #00ff00;} */
